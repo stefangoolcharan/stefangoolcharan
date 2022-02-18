@@ -1,6 +1,6 @@
 - 👋 Hi, my name is: 
    Stefan Goolcharan and i am currently an undergraduate in my final semester at The University of the West Indies. 
-   Bsc. Information Technology (General major) & Psychology (Minor) GPA: 3.1
+   Bsc. Information Technology (General major) & Psychology (Minor) 
 
 - 👀 I’m interested in: 
    Building cool programs and web development. I have coded in C++ and wish to further 
