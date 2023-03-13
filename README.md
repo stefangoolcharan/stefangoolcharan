@@ -1,12 +1,10 @@
 - 👋 Hi, my name is: 
-   Stefan Goolcharan and i am currently an undergraduate in my final semester at The University of the West Indies. 
+   Stefan Goolcharan and i am a graduate of The University of the West Indies. 
    Bsc. Information Technology (General major) & Psychology (Minor) 
 
 - 👀 I’m interested in: 
-   Building cool programs and web development. I have coded in C++ and wish to further 
+   Building interestin, functional programs and web development. I am experienced in C++ and wish to further 
    my programming knowledge in this language while also pursing more dynamic languages such as Python.
-   Web Development has always interested me as well and i plan to build interesting websites to showcase my progress 
-   on my repository.
  
 - 🌱 I’m currently learning: 
    C++, Python, Html, Css, Javascript, Flask
