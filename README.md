@@ -3,7 +3,7 @@
    Bsc. Information Technology (General major) & Psychology (Minor) 
 
 - 👀 I’m interested in: 
-   Building interestin, functional programs and web development. I am experienced in C++ and wish to further 
+   Building interesting, functional programs and web development. I am experienced in C++ and wish to further 
    my programming knowledge in this language while also pursing more dynamic languages such as Python.
  
 - 🌱 I’m currently learning: 
