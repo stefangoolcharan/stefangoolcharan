@@ -3,11 +3,11 @@
    Bsc. Information Technology (General major) & Psychology (Minor) 
 
 - 👀 I’m interested in: 
-   Building interesting, functional programs and web development. I am experienced in C++ and wish to further 
-   my programming knowledge in this language while also pursing more dynamic languages such as Python.
+   Web development. I am experienced in HTML, CSS, JS, Figma and wish to further 
+   my programming knowledge in this field while also pursing frameworks and ui libraries ie. Vue, React.
  
 - 🌱 I’m currently learning: 
-   C++, Python, Html, Css, Javascript, Flask
+   Html, Css, Javascript, Flask
    
 - 📫 How to reach me: 
    Email: goolcharanshivan@gmail.com 
