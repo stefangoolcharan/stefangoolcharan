@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in: 
    Web development. I am experienced in HTML, CSS, JS, Figma and wish to further 
-   my programming knowledge in this field while also pursing frameworks and ui libraries ie. Vue, React.
+   my programming knowledge in this field while also pursing frameworks and ui libraries ie. Vue, Angular, React.
  
 - 🌱 I’m currently learning: 
    Html, Css, Javascript, Flask
