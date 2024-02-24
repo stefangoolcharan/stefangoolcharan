@@ -7,11 +7,10 @@
    my programming knowledge in this field while also pursing frameworks and ui libraries ie. Vue, Angular, React.
  
 - 🌱 I’m currently learning: 
-   Html, Css, Javascript, Flask
+   Html, Css, Javascript, ReactJs
    
 - 📫 How to reach me: 
-   Email: goolcharanshivan@gmail.com 
-   Facebook: Stefan Goolcharan 
+   Email: goolcharanshivan@gmail.com
    LinkedIn: Stefan Goolcharan 
 
 <!---
