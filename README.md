@@ -4,13 +4,12 @@
 
 - 👀 I’m interested in: 
    Web development. I am experienced in HTML, CSS, JS, Figma and wish to further 
-   my programming knowledge in this field while also pursing frameworks and ui libraries ie. Vue, Angular, React.
+   my programming knowledge in this field while also pursing more frameworks & languages.
  
 - 🌱 I’m currently learning: 
-   Html, Css, Javascript, ReactJs
+   NextJs
    
 - 📫 How to reach me: 
-   Email: goolcharanshivan@gmail.com
    LinkedIn: Stefan Goolcharan 
 
 <!---
