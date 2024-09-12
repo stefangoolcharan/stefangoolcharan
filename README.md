@@ -1,6 +1,6 @@
 - 👋 Hi, my name is: 
    Stefan Goolcharan and i am a graduate of The University of the West Indies. 
-   Bsc. Information Technology (General major) & Psychology (Minor) 
+   Bsc. Information Technology. 
 
 - 👀 I’m interested in: 
    Web development. I am experienced in HTML, CSS, JS, Figma and wish to further 
